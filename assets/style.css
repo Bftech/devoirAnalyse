@@ -22,7 +22,7 @@ html, body {
 }
 
 #content section article{
-  margin-top: 10vh;
+  margin-top: 5vh;
   text-align: justify;
   overflow-y: auto;
 }
@@ -40,6 +40,42 @@ html, body {
   background-image: url("img/ban2.jpg");
   background-size: cover;
   background-position: center 35%;
+}
+
+#section3 header{
+  background-image: url("img/ban3.jpg");
+  background-size: cover;
+  background-position: center 35%;
+}
+
+#section4 header{
+  background-image: url("img/ban4.jpg");
+  background-size: cover;
+  background-position: center 35%;
+}
+
+#section5 header{
+  background-image: url("img/ban5.jpg");
+  background-size: cover;
+  background-position: center 35%;
+}
+
+#section6 header{
+  background-image: url("img/ban6.jpg");
+  background-size: cover;
+  background-position: center 45%;
+}
+
+#section7 header{
+  background-image: url("img/ban7.jpg");
+  background-size: cover;
+  background-position: center 0%;
+}
+
+#sectionA header{
+  background-image: url("img/ban8.jpg");
+  background-size: cover;
+  background-position: center 55%;
 }
 
 nav{
