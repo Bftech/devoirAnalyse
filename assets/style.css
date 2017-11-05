@@ -71,6 +71,11 @@ html, body {
   background-size: cover;
   background-position: center 0%;
 }
+#section8 header{
+  background-image: url("img/ban9.jpg");
+  background-size: cover;
+  background-position: center 50%;
+}
 
 #sectionA header{
   background-image: url("img/ban8.jpg");
